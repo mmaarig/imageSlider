@@ -1,0 +1,24 @@
+body {
+	background-image: url(./Media/158.jpg);
+	background-position: center;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(102, 209, 223);
+}
+
+#over {
+	/* background-color: rgb(23, 29, 29); */
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+#img {
+	width: 100%;
+	height: 100%;
+	box-shadow: 10px 10px 15px rgb(148, 248, 243);
+}
