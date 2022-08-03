@@ -22,5 +22,5 @@ img.addEventListener('click', (event) => {
 			break;
 	}
 	console.log(a)
-	if (a > 8 || a < 0) a = 1
+	if (a > 3 || a < 0) a = 1
 });
